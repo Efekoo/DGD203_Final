@@ -1,0 +1,14 @@
+D:\Yeni klasor\CSharp\DGD203_Final2\bin\Debug\net8.0\DGD203_Final2.exe
+D:\Yeni klasor\CSharp\DGD203_Final2\bin\Debug\net8.0\DGD203_Final2.deps.json
+D:\Yeni klasor\CSharp\DGD203_Final2\bin\Debug\net8.0\DGD203_Final2.runtimeconfig.json
+D:\Yeni klasor\CSharp\DGD203_Final2\bin\Debug\net8.0\DGD203_Final2.dll
+D:\Yeni klasor\CSharp\DGD203_Final2\bin\Debug\net8.0\DGD203_Final2.pdb
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\DGD203_Final2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\DGD203_Final2.AssemblyInfoInputs.cache
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\DGD203_Final2.AssemblyInfo.cs
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\DGD203_Final2.csproj.CoreCompileInputs.cache
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\DGD203_Final2.dll
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\refint\DGD203_Final2.dll
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\DGD203_Final2.pdb
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\DGD203_Final2.genruntimeconfig.cache
+D:\Yeni klasor\CSharp\DGD203_Final2\obj\Debug\net8.0\ref\DGD203_Final2.dll
