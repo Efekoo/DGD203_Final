@@ -335,6 +335,11 @@ E: Go East
 W: Go West
 load: Load saved game
 save: Save current game
+clear: Clear the screen
+take: Take the item present on the location
+inventory: View your inventory
+read: Read something
+asnwer: Answer the question
 exit: Exit the game";
     }
 }

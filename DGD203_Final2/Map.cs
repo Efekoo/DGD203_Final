@@ -166,7 +166,7 @@ public class Map
     }
     static void ShowRiddleMessage()
     {
-        Console.WriteLine("What is the best Shrek movie?");
+        Console.WriteLine("What is the best Shrek movie? 1,2 or 3?");
     }
     static void ShowNoteMessage()
     {
